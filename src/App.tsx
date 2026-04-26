@@ -79,7 +79,7 @@ function App() {
           }}
         >
           <Title level={4} style={{ margin: 0 }}>
-            钱迹 · 资产负债表
+            资迹 · 资产负债表
           </Title>
           <Space>
             <LedgerDropdown onSwitch={() => setActiveTab('trend')} />
